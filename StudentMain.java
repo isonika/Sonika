@@ -13,7 +13,7 @@ public class StudentMain {
 		int choice;
 		 do {
 			 System.out.println("M E N U");
-			 System.out.println("=======");
+			 System.out.println("********");
 			 System.out.println("1.Add student");
 			 System.out.println("2.Show student");
 			 System.out.println("3.Exit");
